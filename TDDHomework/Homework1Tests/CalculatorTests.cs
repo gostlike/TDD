@@ -88,7 +88,7 @@ namespace Homework1.Tests
 
         //筆數若輸入為0, 則傳回0
         [TestMethod()]
-        public void TestGetSum_size_is_0_SumOfEmployee_Revenue_should_be_0()
+        public void TestGetSum_size_is_0_SumOfProduction_Revenue_should_be_0()
         {
             //arrange
             var expected = new List<int>() { 0 };
